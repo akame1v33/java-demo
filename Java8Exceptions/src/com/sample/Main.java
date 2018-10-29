@@ -1,14 +1,8 @@
 package com.sample;
 
 import com.sample.collections.CollectionDemo;
-import com.sample.enums.EnumDemo;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.Objects;
 import java.util.stream.Stream;
 
 public class Main {
